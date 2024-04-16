@@ -5,6 +5,9 @@ let valueinNumber = Number(fruit);
 console.log(typeof(Number(fruit))); // output - number
 console.log(valueinNumber); // output - NaN
 
+
+
+
 let str1 = "";
 console.log(Boolean(str1)); // output - false
 
