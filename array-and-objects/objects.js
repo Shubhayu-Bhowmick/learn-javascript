@@ -10,6 +10,8 @@ const User = {
 console.log(User.email);
 console.log(User["email"]);
 
+const {} = cours
+
 User.greeting = function(){
     console.log("Hello user");
 }
